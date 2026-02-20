@@ -3,7 +3,7 @@
 Summary:	A data package
 Name:		R-%{packname}
 Version:	1.4.16
-Release:	1
+Release:	2
 License:	Artistic 2.0
 Group:		Applications/Engineering
 Source0:	http://www.bioconductor.org/packages/release/data/experiment/src/contrib/%{packname}_%{version}.tar.gz
