@@ -2,12 +2,12 @@
 
 Summary:	A data package
 Name:		R-%{packname}
-Version:	1.4.16
-Release:	2
+Version:	1.52.0
+Release:	1
 License:	Artistic 2.0
 Group:		Applications/Engineering
 Source0:	http://www.bioconductor.org/packages/release/data/experiment/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	405a0bff7e44a72733a1e854736e998d
+# Source0-md5:	40bd64aa3921b0009ced7f231972c7bd
 URL:		http://www.bioconductor.org/packages/release/data/experiment/html/ALL.html
 BuildRequires:	R-Biobase
 BuildRequires:	R
